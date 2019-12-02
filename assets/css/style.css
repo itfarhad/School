@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css?family=Galada&display=swap&subset=bengali');
+@import url('https://fonts.googleapis.com/css?family=Baloo+Da&display=swap&subset=bengali,latin-ext,vietnamese');
+.colorchange{
+    animation: colorchangea-school-web 5s infinite;
+}
+@keyframes colorchangea-school-web{
+
+    0%{color: #000;}
+    25%{color: #000080;}
+    50%{color: #7f008b;}
+    75%{color: #7cfc00;}
+    100%{color: #000080;}
+}
+.md{
+    padding: 20px 0;
+}
+.heading h1{
+    font-family: 'Galada', cursive;
+    font-size: 6rem;
+
+}
+.heading p{
+    font-family: 'Baloo Da', cursive;
+    font-size: 20px;
+    padding: 2px;
+}
+.teacher-about-header{
+    font-size: 50px;
+    border: 1px solid #9595c9;
+    text-transform:uppercase;
+}
+
+.card{
+    border: 3px solid #000080;
+    border-style: dashed;
+}
+.card-img-top{
+    width: 10rem;
+    height: 10rem;
+    border-radius: 100px;
+}
+#footer {
+    background: #000;
+    padding: 0 0 30px 0;
+    color: #eee;
+    font-size: 14px;}
+#footer .footer-top {
+        background: #111;
+        padding: 60px 0 30px 0;
+    }
+    #footer .footer-top .footer-links ul li:first-child {
+        padding-top: 0;
+    }
+    
+#footer .footer-top .footer-links ul li {
+        border-bottom: 1px solid #333;
+        padding: 10px 0;
+    }
+    .footer-links ul li{
+        text-decoration: none;
+        list-style: none;
+    }
+#footer .footer-top .footer-contact {
+        margin-bottom: 30px;
+    }
+.col-lg-3{
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    }
+    #footer .footer-top h4 {
+        font-size: 14px;
+        font-weight: bold;
+        color: #fff;
+        text-transform: uppercase;
+        position: relative;
+        padding-bottom: 12px;
+    }
+#footer .footer-top h4::before {
+        right: 0;
+        background: #555;
+    }
+    
+#footer .footer-top h4::before, #footer .footer-top h4::after {
+        content: '';
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        height: 2px;
+    }
+    #footer .footer-top h4::after {
+        background: #18d26e;
+        width: 60px;
+    }
+    #footer .footer-top h4::before, #footer .footer-top h4::after {
+        content: '';
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        height: 2px;
+    }
+    #footer .footer-top .social-links a:hover {
+        background: #18d26e;
+        color: #fff;
+    }
+    #footer .footer-top .social-links a {
+        font-size: 18px;
+        display: inline-block;
+        background: #333;
+        color: #eee;
+        line-height: 1;
+        padding: 8px 0;
+        margin-right: 4px;
+        border-radius: 50%;
+        text-align: center;
+        width: 36px;
+        height: 36px;
+        transition: 0.3s;
+    }
+    a:hover, a:active, a:focus {
+        color: #18d36e;
+        outline: none;
+        text-decoration: none;
+    }
+    a:hover {
+        color: #fff;
+        text-decoration: none;
+    }
+    a {
+        color: #18d26e;
+        transition: 0.5s;
+    }
+    a {
+        color: #007bff;
+        text-decoration: none;
+        background-color: transparent;
+    }
+    user agent stylesheet
+    a:-webkit-any-link:active {
+        color: -webkit-activelink;
+    }
+    user agent stylesheet
+    a:-webkit-any-link {
+        color: -webkit-link;
+        cursor: pointer;
+    }
+    #footer {
+        background: #000;
+        padding: 0 0 30px 0;
+        color: #eee;
+        font-size: 14px;
+    }
+    
+    
