@@ -145,7 +145,7 @@ figure.snip1253 .image {
   overflow: hidden;
 }
 figure.snip1253 img {
-  max-width: 100%;
+  width: 100%;
   vertical-align: top;
   position: relative;
 }
